@@ -1,0 +1,15 @@
+C:\laragon\www\sweet-delivery\IMC_CSharp\bin\Debug\net10.0-windows\IMC_CSharp.exe
+C:\laragon\www\sweet-delivery\IMC_CSharp\bin\Debug\net10.0-windows\IMC_CSharp.deps.json
+C:\laragon\www\sweet-delivery\IMC_CSharp\bin\Debug\net10.0-windows\IMC_CSharp.runtimeconfig.json
+C:\laragon\www\sweet-delivery\IMC_CSharp\bin\Debug\net10.0-windows\IMC_CSharp.dll
+C:\laragon\www\sweet-delivery\IMC_CSharp\bin\Debug\net10.0-windows\IMC_CSharp.pdb
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\IMC_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\IMC_CSharp.AssemblyInfoInputs.cache
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\IMC_CSharp.AssemblyInfo.cs
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\IMC_CSharp.csproj.CoreCompileInputs.cache
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\IMC_CSharp.dll
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\refint\IMC_CSharp.dll
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\IMC_CSharp.pdb
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\IMC_CSharp.genruntimeconfig.cache
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\ref\IMC_CSharp.dll
+C:\laragon\www\sweet-delivery\IMC_CSharp\obj\Debug\net10.0-windows\IMC_CSharp.csproj.Up2Date
